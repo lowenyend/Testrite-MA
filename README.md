@@ -1,7 +1,7 @@
 # Testrite-MA
 Multiplayer Accounting
 
-可以 for 家庭 or 團體多人共同使用的記帳軟體
+可以 for 家庭 or 團體多人共同使用的記帳 APP
 
 App 功能:
   1. 共同編輯機制
